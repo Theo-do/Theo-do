@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Theodore!
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Theo.;Computer+Science+Student.;Open+Source+Enthusiast.;Linux+and+Java+Lover.;Let's+build+something+cool!">
+</p>
+
+
 ![Snake animation](https://github.com/Theo-do/Theo-do/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Theo-do&style=flat&color=blue)
