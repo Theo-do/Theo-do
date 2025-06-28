@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Theodore!
 
 ![Snake animation](https://github.com/Theo-do/Theo-do/blob/output/github-contribution-grid-snake.svg)
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Theo-do&style=flat&color=blue)
 
 ## 💬 About Me
