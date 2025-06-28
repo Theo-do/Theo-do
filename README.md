@@ -1,7 +1,5 @@
-# Hi there 👋, I'm Theodore!
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Coding+is+fun.;Let's+build+something+cool!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there+,+I'm+Theodore!;Coding+is+fun.;Let's+build+something+cool!">
 </p>
 
 
