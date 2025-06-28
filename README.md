@@ -33,5 +33,5 @@
 
 
 ## 📫 Let’s connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/theodore-soulopoulos-12aa83281)
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:theodoresoulopoulos34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theodore-soulopoulos-12aa83281)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:theodoresoulopoulos34@gmail.com)
