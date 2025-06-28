@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Theodore!
 
-### 💬 About Me
+## 💬 About Me
 
 🎓 CS student @ University of Peloponnese  
 💻 I love building web apps, automating tasks & exploring CS.  
