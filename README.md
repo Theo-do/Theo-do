@@ -5,6 +5,10 @@
 🌱 Currently learning: Web Development, UI/UX design & Graphics.  
 🔍 Looking for: Internship opportunities.
 
+![Snake animation](https://github.com/Theo-do/Theo-do/blob/output/github-contribution-grid-snake.svg)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Theo-do&style=flat&color=blue)
+
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
