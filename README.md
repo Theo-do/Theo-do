@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Theodore!
 
-<!--
-**Theo-do/Theo-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student @ University of Peloponnese  
+💻 I love building web apps, automating tasks & exploring CS.  
+🌱 Currently learning: Web Development, UI/UX design & Graphics.  
+🔍 Looking for: Internship opportunities.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Java, JavaScript, C, PHP, exposure to C++ 
+- Tools: Git, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let’s connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/theodore-soulopoulos-12aa83281)
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:theodoresoulopoulos34@gmail.com)
