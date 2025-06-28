@@ -7,7 +7,8 @@
 
 ## 🛠️ Tech Stack
 - Languages: Java, JavaScript, C, PHP, exposure to C++ 
-- Tools: Git, Figma
+- Tools: Git, Figma, VScode/VS
+- Comfortable with Linux and Windows OS
 
 
 ## 📫 Let’s connect!
