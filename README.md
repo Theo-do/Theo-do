@@ -11,7 +11,7 @@
 
 🎓 CS student @ University of Peloponnese  
 💻 I love building web apps, automating tasks & exploring CS.  
-🌱 Currently learning: Web Development, UI/UX design.  
+🌱 Currently learning: Web Development, UI/UX design, front-end/back-end, Spring Boot.  
 🔍 Looking for: Internship opportunities.
 
 ## 🛠️ Tech Stack
